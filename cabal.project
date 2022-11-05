@@ -1,0 +1,3 @@
+packages: ./hsdotnet-generator
+          ./hsdotnet-cpp
+          ./hsdotnet
